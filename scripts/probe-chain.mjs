@@ -1,0 +1,12 @@
+import { readFileSync } from 'node:fs';
+import vm from 'node:vm';
+const sb = { console }; sb.window = sb;
+const ctx = vm.createContext(sb);
+vm.runInContext(readFileSync('src/01-config.js','utf8'), ctx, { filename: '01-config.js' });
+vm.runInContext(readFileSync('src/02-core.js','utf8'), ctx, { filename: '02-core.js' });
+const T = sb.BM.CONFIG.tree;
+const chain = T.nodes.filter(n => n.id.indexOf('chain') === 0);
+console.log('chain 节点:', chain.map(n => n.id + '(' + JSON.stringify(n.effect) + ')').join(' '));
+console.log('总数 nodes:', T.nodes.length, '| 含中心:', T.nodes.length + 1);
+sb.BM.CORE.state.talents = { chain1: 1, chain2: 1, chain3: 1 };
+console.log('买 3 级 mods.chainCells =', sb.BM.CORE.mods().chainCells);

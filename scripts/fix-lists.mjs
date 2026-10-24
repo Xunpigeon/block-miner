@@ -1,0 +1,11 @@
+import { readFileSync, writeFileSync } from 'node:fs';
+let i = readFileSync('test/integration-v2.mjs', 'utf8');
+i = i.replace("'chainRange'];\n", "'chainRange', 'exec'];\n");
+i = i.replace("const TREE_IDS = ['mine', 'atk', 'spd', 'settle', 'ore', 'tntDrop', 'tntDmg', 'tntPlace', 'tntRange', 'chain', 'chainRange'];", "const TREE_IDS = ['mine', 'atk', 'spd', 'settle', 'ore', 'tntDrop', 'tntDmg', 'tntPlace', 'tntRange', 'chain', 'chainRange', 'exec'];");
+writeFileSync('test/integration-v2.mjs', i, 'utf8');
+let u = readFileSync('test/ui.smoke.mjs', 'utf8');
+u = u.replace("'clock', 'ring']", "'clock', 'ring', 'sword']");
+u = u.replace("'clock', 'ring']\)", "'clock', 'ring', 'sword'])");
+u = u.replace('12 种', '13 种').replace('12 种之一', '13 种之一');
+writeFileSync('test/ui.smoke.mjs', u, 'utf8');
+console.log('ok');

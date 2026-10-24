@@ -1,0 +1,468 @@
+{
+  "tiles.ore.stone.normal": [
+    "art/tiles/ore_stone_normal_0.png",
+    "art/tiles/ore_stone_normal_1.png",
+    "art/tiles/ore_stone_normal_2.png",
+    "art/tiles/ore_stone_normal_3.png"
+  ],
+  "tiles.ore.stone.rich": [
+    "art/tiles/ore_stone_rich_0.png",
+    "art/tiles/ore_stone_rich_1.png",
+    "art/tiles/ore_stone_rich_2.png",
+    "art/tiles/ore_stone_rich_3.png"
+  ],
+  "tiles.ore.coal.normal": [
+    "art/tiles/ore_coal_normal_0.png",
+    "art/tiles/ore_coal_normal_1.png",
+    "art/tiles/ore_coal_normal_2.png",
+    "art/tiles/ore_coal_normal_3.png"
+  ],
+  "tiles.ore.coal.rich": [
+    "art/tiles/ore_coal_rich_0.png",
+    "art/tiles/ore_coal_rich_1.png",
+    "art/tiles/ore_coal_rich_2.png",
+    "art/tiles/ore_coal_rich_3.png"
+  ],
+  "tiles.ore.iron.normal": [
+    "art/tiles/ore_iron_normal_0.png",
+    "art/tiles/ore_iron_normal_1.png",
+    "art/tiles/ore_iron_normal_2.png",
+    "art/tiles/ore_iron_normal_3.png"
+  ],
+  "tiles.ore.iron.rich": [
+    "art/tiles/ore_iron_rich_0.png",
+    "art/tiles/ore_iron_rich_1.png",
+    "art/tiles/ore_iron_rich_2.png",
+    "art/tiles/ore_iron_rich_3.png"
+  ],
+  "tiles.ore.crystal.normal": [
+    "art/tiles/ore_crystal_normal_0.png",
+    "art/tiles/ore_crystal_normal_1.png",
+    "art/tiles/ore_crystal_normal_2.png",
+    "art/tiles/ore_crystal_normal_3.png"
+  ],
+  "tiles.ore.crystal.rich": [
+    "art/tiles/ore_crystal_rich_0.png",
+    "art/tiles/ore_crystal_rich_1.png",
+    "art/tiles/ore_crystal_rich_2.png",
+    "art/tiles/ore_crystal_rich_3.png"
+  ],
+  "tiles.crack.1": [
+    "art/tiles/crack_1_0.png",
+    "art/tiles/crack_1_1.png",
+    "art/tiles/crack_1_2.png",
+    "art/tiles/crack_1_3.png",
+    "art/tiles/crack_1_4.png",
+    "art/tiles/crack_1_5.png",
+    "art/tiles/crack_1_6.png",
+    "art/tiles/crack_1_7.png"
+  ],
+  "tiles.crack.2": [
+    "art/tiles/crack_2_0.png",
+    "art/tiles/crack_2_1.png",
+    "art/tiles/crack_2_2.png",
+    "art/tiles/crack_2_3.png",
+    "art/tiles/crack_2_4.png",
+    "art/tiles/crack_2_5.png",
+    "art/tiles/crack_2_6.png",
+    "art/tiles/crack_2_7.png"
+  ],
+  "tiles.crack.3": [
+    "art/tiles/crack_3_0.png",
+    "art/tiles/crack_3_1.png",
+    "art/tiles/crack_3_2.png",
+    "art/tiles/crack_3_3.png",
+    "art/tiles/crack_3_4.png",
+    "art/tiles/crack_3_5.png",
+    "art/tiles/crack_3_6.png",
+    "art/tiles/crack_3_7.png"
+  ],
+  "tiles.pit": [
+    "art/tiles/pit_0.png",
+    "art/tiles/pit_1.png",
+    "art/tiles/pit_2.png",
+    "art/tiles/pit_3.png"
+  ],
+  "tiles.band.tint.1": [
+    "art/tiles/band_tint_1.png"
+  ],
+  "tiles.band.edge.1": [
+    "art/tiles/band_edge_1.png"
+  ],
+  "tiles.band.tint.2": [
+    "art/tiles/band_tint_2.png"
+  ],
+  "tiles.band.edge.2": [
+    "art/tiles/band_edge_2.png"
+  ],
+  "tiles.band.tint.3": [
+    "art/tiles/band_tint_3.png"
+  ],
+  "tiles.band.edge.3": [
+    "art/tiles/band_edge_3.png"
+  ],
+  "tiles.band.tint.4": [
+    "art/tiles/band_tint_4.png"
+  ],
+  "tiles.band.edge.4": [
+    "art/tiles/band_edge_4.png"
+  ],
+  "tiles.band.tint.5": [
+    "art/tiles/band_tint_5.png"
+  ],
+  "tiles.band.edge.5": [
+    "art/tiles/band_edge_5.png"
+  ],
+  "tiles.treasure": [
+    "art/tiles/treasure_0.png",
+    "art/tiles/treasure_1.png"
+  ],
+  "tiles.rock.quarry": [
+    "art/tiles/rock_quarry_0.png",
+    "art/tiles/rock_quarry_1.png",
+    "art/tiles/rock_quarry_2.png",
+    "art/tiles/rock_quarry_3.png"
+  ],
+  "tiles.rock.copperRidge": [
+    "art/tiles/rock_copperridge_0.png",
+    "art/tiles/rock_copperridge_1.png",
+    "art/tiles/rock_copperridge_2.png",
+    "art/tiles/rock_copperridge_3.png"
+  ],
+  "tiles.rock.blueIron": [
+    "art/tiles/rock_blueiron_0.png",
+    "art/tiles/rock_blueiron_1.png",
+    "art/tiles/rock_blueiron_2.png",
+    "art/tiles/rock_blueiron_3.png"
+  ],
+  "tiles.rock.lavaEdge": [
+    "art/tiles/rock_lavaedge_0.png",
+    "art/tiles/rock_lavaedge_1.png",
+    "art/tiles/rock_lavaedge_2.png",
+    "art/tiles/rock_lavaedge_3.png"
+  ],
+  "tiles.rock.starCave": [
+    "art/tiles/rock_starcave_0.png",
+    "art/tiles/rock_starcave_1.png",
+    "art/tiles/rock_starcave_2.png",
+    "art/tiles/rock_starcave_3.png"
+  ],
+  "tiles.rock.moonRift": [
+    "art/tiles/rock_moonrift_0.png",
+    "art/tiles/rock_moonrift_1.png",
+    "art/tiles/rock_moonrift_2.png",
+    "art/tiles/rock_moonrift_3.png"
+  ],
+  "tiles.rock.coreHeart": [
+    "art/tiles/rock_coreheart_0.png",
+    "art/tiles/rock_coreheart_1.png",
+    "art/tiles/rock_coreheart_2.png",
+    "art/tiles/rock_coreheart_3.png"
+  ],
+  "bg.zone.quarry.far": [
+    "art/bg/zone_quarry_far.png"
+  ],
+  "bg.zone.quarry.mid": [
+    "art/bg/zone_quarry_mid.png"
+  ],
+  "bg.zone.quarry.near": [
+    "art/bg/zone_quarry_near.png"
+  ],
+  "bg.thumb.quarry": [
+    "art/bg/thumb_quarry.png"
+  ],
+  "bg.cover.quarry": [
+    "art/bg/cover_quarry.png"
+  ],
+  "bg.zone.copperRidge.far": [
+    "art/bg/zone_copperridge_far.png"
+  ],
+  "bg.zone.copperRidge.mid": [
+    "art/bg/zone_copperridge_mid.png"
+  ],
+  "bg.zone.copperRidge.near": [
+    "art/bg/zone_copperridge_near.png"
+  ],
+  "bg.thumb.copperRidge": [
+    "art/bg/thumb_copperridge.png"
+  ],
+  "bg.cover.copperRidge": [
+    "art/bg/cover_copperridge.png"
+  ],
+  "bg.zone.blueIron.far": [
+    "art/bg/zone_blueiron_far.png"
+  ],
+  "bg.zone.blueIron.mid": [
+    "art/bg/zone_blueiron_mid.png"
+  ],
+  "bg.zone.blueIron.near": [
+    "art/bg/zone_blueiron_near.png"
+  ],
+  "bg.thumb.blueIron": [
+    "art/bg/thumb_blueiron.png"
+  ],
+  "bg.cover.blueIron": [
+    "art/bg/cover_blueiron.png"
+  ],
+  "bg.zone.lavaEdge.far": [
+    "art/bg/zone_lavaedge_far.png"
+  ],
+  "bg.zone.lavaEdge.mid": [
+    "art/bg/zone_lavaedge_mid.png"
+  ],
+  "bg.zone.lavaEdge.near": [
+    "art/bg/zone_lavaedge_near.png"
+  ],
+  "bg.thumb.lavaEdge": [
+    "art/bg/thumb_lavaedge.png"
+  ],
+  "bg.cover.lavaEdge": [
+    "art/bg/cover_lavaedge.png"
+  ],
+  "bg.zone.starCave.far": [
+    "art/bg/zone_starcave_far.png"
+  ],
+  "bg.zone.starCave.mid": [
+    "art/bg/zone_starcave_mid.png"
+  ],
+  "bg.zone.starCave.near": [
+    "art/bg/zone_starcave_near.png"
+  ],
+  "bg.thumb.starCave": [
+    "art/bg/thumb_starcave.png"
+  ],
+  "bg.cover.starCave": [
+    "art/bg/cover_starcave.png"
+  ],
+  "bg.zone.moonRift.far": [
+    "art/bg/zone_moonrift_far.png"
+  ],
+  "bg.zone.moonRift.mid": [
+    "art/bg/zone_moonrift_mid.png"
+  ],
+  "bg.zone.moonRift.near": [
+    "art/bg/zone_moonrift_near.png"
+  ],
+  "bg.thumb.moonRift": [
+    "art/bg/thumb_moonrift.png"
+  ],
+  "bg.cover.moonRift": [
+    "art/bg/cover_moonrift.png"
+  ],
+  "bg.zone.coreHeart.far": [
+    "art/bg/zone_coreheart_far.png"
+  ],
+  "bg.zone.coreHeart.mid": [
+    "art/bg/zone_coreheart_mid.png"
+  ],
+  "bg.zone.coreHeart.near": [
+    "art/bg/zone_coreheart_near.png"
+  ],
+  "bg.thumb.coreHeart": [
+    "art/bg/thumb_coreheart.png"
+  ],
+  "bg.cover.coreHeart": [
+    "art/bg/cover_coreheart.png"
+  ],
+  "bg.far": [
+    "art/bg/cave_far.png"
+  ],
+  "bg.mid": [
+    "art/bg/cave_mid.png"
+  ],
+  "bg.near": [
+    "art/bg/cave_near.png"
+  ],
+  "bg.dust": [
+    "art/bg/dust_layer.png"
+  ],
+  "bg.lightshaft": [
+    "art/bg/lightshaft.png"
+  ],
+  "bg.vignette": [
+    "art/bg/vignette.png"
+  ],
+  "ui.btn_primary": [
+    "art/ui/btn_primary.png"
+  ],
+  "ui.btn_primary_down": [
+    "art/ui/btn_primary_down.png"
+  ],
+  "ui.btn_ghost": [
+    "art/ui/btn_ghost.png"
+  ],
+  "ui.btn_danger": [
+    "art/ui/btn_danger.png"
+  ],
+  "ui.panel": [
+    "art/ui/panel.png"
+  ],
+  "ui.card": [
+    "art/ui/card.png"
+  ],
+  "ui.card_selected": [
+    "art/ui/card_selected.png"
+  ],
+  "ui.card_locked": [
+    "art/ui/card_locked.png"
+  ],
+  "ui.chip": [
+    "art/ui/chip.png"
+  ],
+  "ui.tooltip": [
+    "art/ui/tooltip.png"
+  ],
+  "ui.node_owned": [
+    "art/ui/node_owned.png"
+  ],
+  "ui.node_avail": [
+    "art/ui/node_avail.png"
+  ],
+  "ui.node_locked": [
+    "art/ui/node_locked.png"
+  ],
+  "ui.node_capstone": [
+    "art/ui/node_capstone.png"
+  ],
+  "ui.band_header": [
+    "art/ui/band_header.png"
+  ],
+  "ui.bar_bg": [
+    "art/ui/bar_bg.png"
+  ],
+  "ui.bar_fill": [
+    "art/ui/bar_fill.png"
+  ],
+  "ui.confirm": [
+    "art/ui/confirm.png"
+  ],
+  "icons.ore_stone": [
+    "art/icons/ore_stone.png"
+  ],
+  "icons.ore_coal": [
+    "art/icons/ore_coal.png"
+  ],
+  "icons.ore_iron": [
+    "art/icons/ore_iron.png"
+  ],
+  "icons.ore_crystal": [
+    "art/icons/ore_crystal.png"
+  ],
+  "icons.tool_wood": [
+    "art/icons/tool_wood.png"
+  ],
+  "icons.tool_stone": [
+    "art/icons/tool_stone.png"
+  ],
+  "icons.tool_iron": [
+    "art/icons/tool_iron.png"
+  ],
+  "icons.tool_diamond": [
+    "art/icons/tool_diamond.png"
+  ],
+  "icons.tool_laser": [
+    "art/icons/tool_laser.png"
+  ],
+  "icons.tool_quake": [
+    "art/icons/tool_quake.png"
+  ],
+  "icons.tool_coreDrill": [
+    "art/icons/tool_coredrill.png"
+  ],
+  "icons.tnt": [
+    "art/icons/tnt.png"
+  ],
+  "icons.icon_talent": [
+    "art/icons/icon_talent.png"
+  ],
+  "icons.icon_upgrade": [
+    "art/icons/icon_upgrade.png"
+  ],
+  "icons.icon_settings": [
+    "art/icons/icon_settings.png"
+  ],
+  "icons.icon_quality": [
+    "art/icons/icon_quality.png"
+  ],
+  "icons.icon_reset": [
+    "art/icons/icon_reset.png"
+  ],
+  "icons.clock": [
+    "art/icons/clock.png"
+  ],
+  "icons.icon_combo": [
+    "art/icons/icon_combo.png"
+  ],
+  "icons.icon_record": [
+    "art/icons/icon_record.png"
+  ],
+  "icons.sound_on": [
+    "art/icons/sound_on.png"
+  ],
+  "icons.sound_off": [
+    "art/icons/sound_off.png"
+  ],
+  "icons.upgrade_pickDamage": [
+    "art/icons/upgrade_pickdamage.png"
+  ],
+  "icons.upgrade_magnet": [
+    "art/icons/upgrade_magnet.png"
+  ],
+  "icons.upgrade_bag": [
+    "art/icons/upgrade_bag.png"
+  ],
+  "icons.upgrade_workTime": [
+    "art/icons/upgrade_worktime.png"
+  ],
+  "icons.upgrade_richBonus": [
+    "art/icons/upgrade_richbonus.png"
+  ],
+  "drops.stone": [
+    "art/drops/drop_stone.png"
+  ],
+  "drops.coal": [
+    "art/drops/drop_coal.png"
+  ],
+  "drops.iron": [
+    "art/drops/drop_iron.png"
+  ],
+  "drops.crystal": [
+    "art/drops/drop_crystal.png"
+  ],
+  "fx.chip.stone": [
+    "art/fx/chip_stone.png"
+  ],
+  "fx.chip.coal": [
+    "art/fx/chip_coal.png"
+  ],
+  "fx.chip.iron": [
+    "art/fx/chip_iron.png"
+  ],
+  "fx.chip.crystal": [
+    "art/fx/chip_crystal.png"
+  ],
+  "fx.spark": [
+    "art/fx/spark.png"
+  ],
+  "fx.spark_gold": [
+    "art/fx/spark_gold.png"
+  ],
+  "fx.dust": [
+    "art/fx/dust.png"
+  ],
+  "fx.star": [
+    "art/fx/star.png"
+  ],
+  "fx.tnt": [
+    "art/fx/tnt.png"
+  ],
+  "fx.tnt_gold": [
+    "art/fx/tnt_gold.png"
+  ],
+  "fx.deep_ring": [
+    "art/fx/deep_ring.png"
+  ],
+  "logo.title": [
+    "art/logo/title.png"
+  ]
+}

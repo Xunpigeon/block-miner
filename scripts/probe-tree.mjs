@@ -1,0 +1,10 @@
+import { readFileSync } from 'node:fs';
+import vm from 'node:vm';
+const sb = { console };
+sb.window = sb;
+const ctx = vm.createContext(sb);
+vm.runInContext(readFileSync('src/01-config.js', 'utf8'), ctx, { filename: '01-config.js' });
+const T = sb.BM.CONFIG.tree;
+console.log('center:', T.center.id, T.center.name, 'cost', T.center.cost);
+console.log('nodes:', T.nodes.length);
+for (const n of T.nodes) console.log(' ', n.id, '|', n.name, '| depth', n.depth, '| lv', n.maxLevel, '| parent', (n.requires||[]).join(','), '| eff', JSON.stringify(n.effect || null).slice(0, 60), '| icon', n.icon);
