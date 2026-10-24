@@ -27,7 +27,7 @@
 
 | 矿区 | 天赋树 |
 |---|---|
-| ![mine](shots/final-mine.png) | ![tree](shots/tree-labels-2x.png) |
+| ![mine](shots/gameplay.png) | ![tree](shots/talent-tree.png) |
 
 更多截图见 `shots/`。
 
